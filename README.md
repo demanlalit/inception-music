@@ -271,3 +271,5 @@ Visit the printed Vite URL (default `http://localhost:5173`).
 - Configure Cloudinary/S3 with signed URLs and folder-level access policy as needed.
 - Put the frontend behind a proper static file host (e.g. Vercel, Netlify) and the backend behind a reverse proxy (e.g. Nginx) with HTTPS.
 
+### AUTHOR
+- LALIT VERMA
